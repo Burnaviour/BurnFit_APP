@@ -1,0 +1,8 @@
+{
+  "name": "FitnessApp",
+  "displayName": "BurnFIT",
+  "plugins": [
+    "expo-font",
+    "expo-asset"
+  ]
+}
