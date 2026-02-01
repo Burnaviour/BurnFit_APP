@@ -21,9 +21,9 @@ DerivedData
 *.ipa
 *.xcuserstate
 **/.xcode.env.local
-
 # Android/IntelliJ
-#
+*.apk
+*.apks
 build/
 .idea
 .gradle
